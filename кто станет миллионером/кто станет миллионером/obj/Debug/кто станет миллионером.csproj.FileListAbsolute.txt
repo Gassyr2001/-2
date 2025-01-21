@@ -1,0 +1,10 @@
+C:\Users\APRO\source\repos\кто станет миллионером\кто станет миллионером\bin\Debug\кто станет миллионером.exe.config
+C:\Users\APRO\source\repos\кто станет миллионером\кто станет миллионером\bin\Debug\кто станет миллионером.exe
+C:\Users\APRO\source\repos\кто станет миллионером\кто станет миллионером\bin\Debug\кто станет миллионером.pdb
+C:\Users\APRO\source\repos\кто станет миллионером\кто станет миллионером\obj\Debug\кто станет миллионером.csproj.AssemblyReference.cache
+C:\Users\APRO\source\repos\кто станет миллионером\кто станет миллионером\obj\Debug\кто_станет_миллионером.Properties.Resources.resources
+C:\Users\APRO\source\repos\кто станет миллионером\кто станет миллионером\obj\Debug\кто станет миллионером.csproj.GenerateResource.cache
+C:\Users\APRO\source\repos\кто станет миллионером\кто станет миллионером\obj\Debug\кто станет миллионером.csproj.CoreCompileInputs.cache
+C:\Users\APRO\source\repos\кто станет миллионером\кто станет миллионером\obj\Debug\кто станет миллионером.exe
+C:\Users\APRO\source\repos\кто станет миллионером\кто станет миллионером\obj\Debug\кто станет миллионером.pdb
+C:\Users\APRO\source\repos\кто станет миллионером\кто станет миллионером\obj\Debug\кто_станет_миллионером.Form1.resources

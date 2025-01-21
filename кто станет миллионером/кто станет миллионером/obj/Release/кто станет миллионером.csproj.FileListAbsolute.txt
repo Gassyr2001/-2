@@ -1,0 +1,10 @@
+C:\Users\APRO\source\repos\кто станет миллионером\кто станет миллионером\bin\Release\кто станет миллионером.exe.config
+C:\Users\APRO\source\repos\кто станет миллионером\кто станет миллионером\bin\Release\кто станет миллионером.exe
+C:\Users\APRO\source\repos\кто станет миллионером\кто станет миллионером\bin\Release\кто станет миллионером.pdb
+C:\Users\APRO\source\repos\кто станет миллионером\кто станет миллионером\obj\Release\кто станет миллионером.csproj.AssemblyReference.cache
+C:\Users\APRO\source\repos\кто станет миллионером\кто станет миллионером\obj\Release\кто_станет_миллионером.Form1.resources
+C:\Users\APRO\source\repos\кто станет миллионером\кто станет миллионером\obj\Release\кто_станет_миллионером.Properties.Resources.resources
+C:\Users\APRO\source\repos\кто станет миллионером\кто станет миллионером\obj\Release\кто станет миллионером.csproj.GenerateResource.cache
+C:\Users\APRO\source\repos\кто станет миллионером\кто станет миллионером\obj\Release\кто станет миллионером.csproj.CoreCompileInputs.cache
+C:\Users\APRO\source\repos\кто станет миллионером\кто станет миллионером\obj\Release\кто станет миллионером.exe
+C:\Users\APRO\source\repos\кто станет миллионером\кто станет миллионером\obj\Release\кто станет миллионером.pdb
